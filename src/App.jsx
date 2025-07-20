@@ -44,7 +44,7 @@ function App() {
     e.preventDefault();
     toast({
       title: "🚧 Esta funcionalidade ainda não foi implementada",
-      description: "Mas não se preocupe! Você pode solicitá-la no seu próximo prompt! 🚀",
+      description: "Mas não se preocupe! Você pode solicitá-la no seu próximo prompt.! 🚀",
     });
   };
 
